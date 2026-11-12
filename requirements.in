@@ -1,0 +1,6 @@
+colorlog
+flask
+httpx
+notion-client
+python-dotenv
+requests
